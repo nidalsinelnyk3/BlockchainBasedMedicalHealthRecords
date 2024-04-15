@@ -138,11 +138,3 @@ Access Needs to be given for that you can simply goto GetMedicalInfoAddGet & aut
 2. Doctor can add Dcotors
 3. Doctor can add/view reports
 4. Doctor can view other Doctor
-
-## Creator
-
-Created By [Neeraj](https://github.com/Via5K)
-
-<a href="https://github.com/Via5k/Blockchain-Based-Medical-Health-Records/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Via5k/Blockchain-Based-Medical-Health-Records" />
-</a>
